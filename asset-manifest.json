@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/store/static/css/main.b8f6fc00.css",
+    "main.js": "/store/static/js/main.5a4a38bc.js",
+    "static/media/phone2.png": "/store/static/media/phone2.5c9124cc0fe0c8885687.png",
+    "static/media/land.png": "/store/static/media/land.a4085453f6821adedf5e.png",
+    "static/media/land2.png": "/store/static/media/land2.1a2c02691e3ecc1bcd30.png",
+    "static/media/phone1.png": "/store/static/media/phone1.d57dcb55bf2d3f21de5d.png",
+    "static/media/land3.png": "/store/static/media/land3.9821b4204e98e7b234da.png",
+    "static/media/phone3.png": "/store/static/media/phone3.dceb9792f7fca06b5ab8.png",
+    "static/media/disc1.png": "/store/static/media/disc1.4d888da968610b0f505f.png",
+    "static/media/pro4.png": "/store/static/media/pro4.4d0f70d6c512ebdf6316.png",
+    "static/media/pro3.png": "/store/static/media/pro3.4cdf45162674c3a4b437.png",
+    "static/media/cat4.png": "/store/static/media/cat4.d57f2519cda4209e3d87.png",
+    "static/media/pro1.png": "/store/static/media/pro1.d77c6bf39515e026b627.png",
+    "static/media/cat2.png": "/store/static/media/cat2.1205d1e790bde70829c6.png",
+    "static/media/cat5.png": "/store/static/media/cat5.2455cc83a2be5fb5d455.png",
+    "static/media/cat1.png": "/store/static/media/cat1.499ea2bff5ce5bd66885.png",
+    "static/media/cat3.png": "/store/static/media/cat3.efc4ea9f1b01267453a2.png",
+    "static/media/pro2.png": "/store/static/media/pro2.bd63014bd529134ddc52.png",
+    "index.html": "/store/index.html",
+    "main.b8f6fc00.css.map": "/store/static/css/main.b8f6fc00.css.map",
+    "main.5a4a38bc.js.map": "/store/static/js/main.5a4a38bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f6fc00.css",
+    "static/js/main.5a4a38bc.js"
+  ]
+}
